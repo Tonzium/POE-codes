@@ -1,6 +1,7 @@
-# Path of Exile Auto Bow Crafter
-This repository contains a collection of scripts designed to automate the process of crafting bows in Path of Exile to facilitate the generation of in-game currency.
-The automation is achieved through a series of scripts, each tailored to craft bows ranging from a simple single bow to multiple bows in a single run.
+# Path of Exile Auto Crafter
+This repository contains a collection of scripts designed to automate the process of crafting bows and any other item in Path of Exile to facilitate the generation of in-game currency.
+The automation is achieved through a series of scripts, each tailored to craft bows ranging from a simple single bow to multiple bows in a single run. 
+Additionally, using regex_roller you can automate any crafting process in game. Code is tested using 1920x1080 resolution so it is recommended.
 These scripts are created as a means to explore game automation and are intended for educational purposes only.
 
 ## Disclaimer
